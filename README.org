@@ -11,3 +11,6 @@
   - [[./org/private][private]] -- gpg で暗号化した下書き
 
   - [[./org/qiita/][qiita]] -- Qiita に出力する記事
+
+** 参考文献
+- [[https://www.takeokunn.org/posts/permanent/20231219122351-how_to_manage_blog_by_org_roam/][このリポジトリ作成の参考記事]]
