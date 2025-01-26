@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8E4AC195-0B73-4115-BD0B-34908D3FF437
+:END:
+#+TITLE: test
+これはdiarlyのテストです。
