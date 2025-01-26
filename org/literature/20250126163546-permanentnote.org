@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       63F352FF-7606-4A2A-B6FA-FCF07B202040
+:END:
+#+TITLE: permanentNote
+sample

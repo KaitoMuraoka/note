@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2CC1D1F1-2F90-403E-9E3B-536842335EE2
+:END:
+#+TITLE: fleetingNote
+fleetingnote のテストです。
