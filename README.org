@@ -2,8 +2,12 @@
 
 ** ディレクトリの構成
 - org/
-  - fleeting/ --- 技術的なメモ
-  - permanent/ --- 体裁を整えた技術記事
-  - diary/ --- イベント参加記事
-  - private/ --- gpg で暗号化した下書き
-  - qiita/ --- Qiita に出力する記事
+  - [[./org/fleeting/][fleeting]] -- 技術的なメモ
+
+  - [[./org/permanent][permanent]] -- 体裁を整えた技術記事
+
+  - [[./org/diary/][diary]] -- イベントや日常の雑な記事
+
+  - [[./org/private][private]] -- gpg で暗号化した下書き
+
+  - [[./org/qiita/][qiita]] -- Qiita に出力する記事
